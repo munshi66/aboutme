@@ -1,0 +1,83 @@
+html{
+background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('images (2).jpeg')no-repeat center center fixed;
+background-size: cover;
+}
+.hedding{
+	margin-top: 50px;
+	text-align: center;
+	color:#E3B402; 
+	line-height: 15px;
+}
+.hedding h1{
+	font-size: 60px;
+	font-family: A Charming Font Expanded;
+}
+.hedding h2{}
+.hedding h3{}
+.hedding h4{}
+.hedding p{
+	font-family: Adobe Arabic;
+	font-size: 22px;
+}
+#stdivone{
+	width: 910px;
+	background-color: #0A3259;
+	height: 20px;
+	margin-left: 210px;
+	margin-top: 40px;
+	border-radius: 10px;
+}
+#stdivonenext{width: 910px;
+	background-color: #0A3259;
+	height: 20px;
+	margin-left: 210px;
+	margin-top: 5px;
+	border-radius: 10px;}
+#stdivtwo{
+	width: 910px;
+	background-color: #000000;
+	height: 10px;
+	margin-left: 210px;
+	border-radius: 10px;
+}
+#stdivthree{
+	width: 910px;
+	background-color: #0666B6;
+	height: 20px;
+	margin-left: 210px;
+	border-radius: 10px;
+}
+.runtext{
+	width: 910px;
+	height: 30px;
+	background-color: #5A2B00;
+	border-radius: 10px;
+	margin:2px 2px 2px 210px;
+}
+.runtext marquee{
+	margin-top: 0px;
+	font-size: 22px;
+	color: #FF9800;
+	font-family: Jokerman;
+}
+.tabile {
+	margin:0px auto;
+	margin-bottom: 100px;
+	margin-top: 5px;
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+
+}
+.tabile tr{
+
+}
+.tabile tr th{
+	font-size: 20px;
+	margin:0px auto;
+	color: #16A05D;
+}
+.hedding{
+	height: 300px;
+}
+#color{
+	color: orange;
+}
